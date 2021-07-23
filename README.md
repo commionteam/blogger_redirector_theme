@@ -1,1 +1,1 @@
-# blogger_redirector_theme
+# Blogger Redirector Theme
